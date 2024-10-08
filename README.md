@@ -1,8 +1,9 @@
-- 😎 Hello! I'm @dev-LuCamargo, and I'm currently focused on becoming a Front-End Developer;
+#- 😎 Hello! I'm @dev-LuCamargo, and I'm currently focused on becoming a Front-End Developer;
 
-- 👀 I'm interested in understanding and exploring the technologies that add value to HTML5 in the best possible way;
+##- 👀 I'm interested in understanding and exploring the technologies that add value to HTML5 in the best possible way;
 
-- 🌱 Such as:
+#- 🌱 Such as:
+  
 ✔Reactjs,
 
 ✔Next;
